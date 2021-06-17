@@ -8,9 +8,4 @@ print('test print')
 
 print("My second push to *ExtraAddition* branch")
 
-print("Pushing for AddingAnotherBranch branch ")
-
-a = 10
-b = 20
-if a > b:
-    print("a is bigger than b")
+print("Pusing for AddingAnotherBranch branch ")
